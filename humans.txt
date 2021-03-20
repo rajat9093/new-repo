@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 random data, edited fureadsgfdu
-chnages by master
+data by feature branch
 # TEAM
 
     <name> -- <role> -- <twitter>
